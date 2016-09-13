@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Maps in iMessages! # Optional
+marketing_desc: MapMap makes it as easy and fast as possible to show friends where you are and which places you're looking at - all within your iMessages conversations! Use MapMap to update friends on where you are, pass back and forth potential restaurants to check out, or just explore the world. Say whatever you want with a map in MapMap!
 
 #
 # Social Links
@@ -39,7 +39,7 @@ social-links:
   twitter:
   pinterest:
   instagram:
-  email:
+  email: atmorales@gmail.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -58,13 +58,13 @@ enable:
 # * iphone-se-space-gray-vertical
 # * ipod-touch-blue-vertical
 #
-device: iphone-se-silver-vertical # REQUIRED
+device: iphone-se-space-gray-vertical # REQUIRED
 
 #
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: /images/backgrounds/maps.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
@@ -76,13 +76,13 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: MapMap - the iMessages app for instantly sharing your location and exploring with friends right in your Messages conversations! # Optional - Enter your site title
+description: MapMap is one of the first iMessages apps released alongside iOS 10. With MapMap you can share your location with friends quicker than ever and check out maps together – all within your iMessages conversations! # Optional - Enter your site description
 
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-20818674-6 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # iTunes Affiliate Program
